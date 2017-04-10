@@ -1,0 +1,15 @@
+exit
+history
+bin/ps
+ps
+vim
+exit
+
+/bin/ls     -l
+
+exit
+
+/bin/ls -l -a
+
+ls -a -l
+
