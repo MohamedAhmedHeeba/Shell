@@ -1,0 +1,2 @@
+# Shell
+You are required to design and implement a C program that serves as a shell interface. The program accepts user commands and then executes each command in a separate process. The commands are those that can be executed on a Unix-like system such as Linux and Mac OS X. The shell displays a user prompt at which a user can enter the command to be executed. The example below illustrates the prompt shell> and the user’s next command: cat prog.c. (This command displays the file prog.c on the terminal using the UNIX cat command.)
